@@ -7,7 +7,7 @@ git clone https://github.com/math0baba/wordle_solver_Mathieu_Damien.git
 ```
 
 ```sh
-cd wordle_solver_Mathieu_Damien
+cd wordle
 ```
 
 # Comment compiler le programme ?
