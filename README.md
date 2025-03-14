@@ -1,4 +1,4 @@
-# Projet wordle solver de Mathieu et Damien 
+# Projet wordle 
 
 # Comment installer ?
 Ouvrir le terminal ubuntu et taper la commande suivante :
